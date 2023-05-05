@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "a9296116cd528f7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3547952def566a2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ec71cfb54300c75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02笔记库/Markdown教程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c2602ea8a92a4fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02笔记库/Markdown教程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31afffd0423d9380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "请先阅读这里（Readme）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b65d28f9cee49ca7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c67f7c0e60d82c24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c468a12159001c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "842947a162c5fb4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e846d297daa7e09a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c00622e47bed8a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d2f59c63bb10a1a",
+        "type": "tabs",
+        "dimension": 19.379844961240313,
+        "children": [
+          {
+            "id": "74ee6c3a8edaffbc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b177cc7484fb34d9",
+        "type": "tabs",
+        "dimension": 80.62015503875969,
+        "children": [
+          {
+            "id": "3c5fd3b9e284f234",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "请先阅读这里（Readme）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf9e44eac4b6ea9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "请先阅读这里（Readme）.md"
+              }
+            }
+          },
+          {
+            "id": "32c73f25dfe3320a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e55ca7c43b48204f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "请先阅读这里（Readme）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "31afffd0423d9380",
+  "lastOpenFiles": [
+    "02笔记库/国能接入工作台SDK.md",
+    "请先阅读这里（Readme）.md",
+    "02笔记库/Obsidian用Git同步笔记.md",
+    "02笔记库/Markdown教程.md",
+    "00演示文件夹/Excalidraw演示.excalidraw.md",
+    "00演示文件夹/看板演示.md",
+    "未命名.md",
+    "00演示文件夹/Excalidraw演示.md",
+    "日记/2021-12-06.md",
+    "模板/ZK笔记模板.md"
+  ]
+}
