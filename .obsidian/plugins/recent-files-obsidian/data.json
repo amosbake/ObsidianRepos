@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "请先阅读这里（Readme）",
-      "path": "请先阅读这里（Readme）.md"
+      "basename": "如何搭建文章的框架结构",
+      "path": "02笔记库/技术写作指南/如何搭建文章的框架结构.md"
     },
     {
-      "basename": "国能接入工作台SDK",
-      "path": "02笔记库/国能接入工作台SDK.md"
+      "basename": "确定写作方向",
+      "path": "02笔记库/技术写作指南/确定写作方向.md"
+    },
+    {
+      "basename": "Markdown教程",
+      "path": "02笔记库/Markdown教程.md"
+    },
+    {
+      "basename": "…",
+      "path": "developer.mozilla.org/en-US/docs/….md"
     },
     {
       "basename": "Obsidian用Git同步笔记",
       "path": "02笔记库/Obsidian用Git同步笔记.md"
     },
     {
-      "basename": "Markdown教程",
-      "path": "02笔记库/Markdown教程.md"
+      "basename": "国能接入工作台SDK",
+      "path": "02笔记库/国能接入工作台SDK.md"
+    },
+    {
+      "basename": "请先阅读这里（Readme）",
+      "path": "请先阅读这里（Readme）.md"
     },
     {
       "basename": "Excalidraw演示.excalidraw",
