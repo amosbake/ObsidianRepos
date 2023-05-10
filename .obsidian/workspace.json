@@ -33,11 +33,9 @@
             "id": "cf6161b91fb79932",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "02笔记库/国能接入工作台SDK.md",
-                "mode": "source",
-                "source": false
+                "file": "附件/Pasted image 20210912162722.png"
               }
             }
           },
@@ -136,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02笔记库/国能接入工作台SDK.md",
+                "file": "附件/Pasted image 20210912162722.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/国能接入工作台SDK.md"
+                "file": "附件/Pasted image 20210912162722.png"
               }
             }
           },
@@ -174,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02笔记库/国能接入工作台SDK.md",
+                "file": "附件/Pasted image 20210912162722.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,13 +202,13 @@
   },
   "active": "cf6161b91fb79932",
   "lastOpenFiles": [
+    "02笔记库/Markdown教程.md",
+    "02笔记库/Obsidian用Git同步笔记.md",
+    "02笔记库/国能接入工作台SDK.md",
     "02笔记库/Flutter/框架搭建.md",
     "00演示文件夹/看板演示.md",
     "02笔记库/Flutter",
     "00演示文件夹/Excalidraw演示.excalidraw.md",
-    "02笔记库/Obsidian用Git同步笔记.md",
-    "02笔记库/Markdown教程.md",
-    "02笔记库/国能接入工作台SDK.md",
     "02笔记库/技术写作指南/确定写作方向.md",
     "日记/2021-12-06.md",
     "模板/ZK笔记模板.md",
