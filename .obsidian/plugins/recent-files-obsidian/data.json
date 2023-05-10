@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Navigation 库的使用",
+      "path": "02笔记库/Navigation 库的使用.md"
+    },
+    {
+      "basename": "看板演示",
+      "path": "00演示文件夹/看板演示.md"
+    },
+    {
       "basename": "Pasted image 20210912162722",
       "path": "附件/Pasted image 20210912162722.png"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "框架搭建",
       "path": "02笔记库/Flutter/框架搭建.md"
-    },
-    {
-      "basename": "看板演示",
-      "path": "00演示文件夹/看板演示.md"
     },
     {
       "basename": "Excalidraw演示.excalidraw",

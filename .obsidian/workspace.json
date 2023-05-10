@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "33beec4352f9d98e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02笔记库/Navigation 库的使用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cf6161b91fb79932",
             "type": "leaf",
             "state": {
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "附件/Pasted image 20210912162722.png",
+                "file": "02笔记库/Navigation 库的使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "附件/Pasted image 20210912162722.png"
+                "file": "02笔记库/Navigation 库的使用.md"
               }
             }
           },
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "附件/Pasted image 20210912162722.png",
+                "file": "02笔记库/Navigation 库的使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,19 +212,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf6161b91fb79932",
+  "active": "33beec4352f9d98e",
   "lastOpenFiles": [
+    "00演示文件夹/看板演示.md",
+    "02笔记库/Navigation 库的使用.md",
+    "附件/Pasted image 20210912162722.png",
     "02笔记库/Markdown教程.md",
     "02笔记库/Obsidian用Git同步笔记.md",
     "02笔记库/国能接入工作台SDK.md",
     "02笔记库/Flutter/框架搭建.md",
-    "00演示文件夹/看板演示.md",
     "02笔记库/Flutter",
     "00演示文件夹/Excalidraw演示.excalidraw.md",
     "02笔记库/技术写作指南/确定写作方向.md",
     "日记/2021-12-06.md",
     "模板/ZK笔记模板.md",
-    "附件/Pasted image 20210912162722.png",
     "请先阅读这里（Readme）.md",
     "02笔记库/技术写作指南/如何搭建文章的框架结构.md",
     "developer.mozilla.org/en-US/docs/….md",
