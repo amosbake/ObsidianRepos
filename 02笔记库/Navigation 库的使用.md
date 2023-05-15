@@ -1,4 +1,6 @@
 ## 创建导航
+## 修改导航图
+## 导航图属性
 ## 修改起始页
 1. /res/navigation/xxx.xml中，关闭 app:startDestination 属性
 2. act的oncreate中，加入动态判断代码：
@@ -30,3 +32,5 @@ when (projectType)) {
 
 
 ```
+## 动态导航
+## 全局导航
