@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02笔记库/技术写作指南/如何搭建文章的框架结构.md",
+                "file": "02笔记库/Navigation.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,6 +89,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "937fc031bde5ec2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -126,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02笔记库/技术写作指南/如何搭建文章的框架结构.md",
+                "file": "02笔记库/Navigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/技术写作指南/如何搭建文章的框架结构.md"
+                "file": "02笔记库/Navigation.md"
               }
             }
           },
@@ -164,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02笔记库/技术写作指南/如何搭建文章的框架结构.md",
+                "file": "02笔记库/Navigation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +202,10 @@
   },
   "active": "ef58451268d1838d",
   "lastOpenFiles": [
-    "02笔记库/技术写作指南/确定写作方向.md",
+    "02笔记库/国能接入工作台SDK.md",
+    "02笔记库/Navigation.md",
     "02笔记库/技术写作指南/如何搭建文章的框架结构.md",
+    "02笔记库/技术写作指南/确定写作方向.md",
     "02笔记库/Markdown教程.md",
     "developer.mozilla.org/en-US/docs/….md",
     "developer.mozilla.org/en-US/docs",
@@ -203,7 +213,6 @@
     "developer.mozilla.org",
     "02笔记库/Obsidian用Git同步笔记.md",
     "02笔记库/技术写作指南",
-    "02笔记库/国能接入工作台SDK.md",
     "请先阅读这里（Readme）.md",
     "00演示文件夹/Excalidraw演示.excalidraw.md",
     "00演示文件夹/看板演示.md",
