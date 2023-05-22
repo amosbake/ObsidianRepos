@@ -23,19 +23,69 @@
             "id": "ef58451268d1838d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00演示文件夹/看板演示.md"
+                "file": "02笔记库/Navigation.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "33beec4352f9d98e",
+            "id": "7253bd0a5f8b8863",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02笔记库/Navigation 库的使用.md",
+                "file": "02笔记库/Navigation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52072efcd5a28e70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02笔记库/Android 文档预览功能调研.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61ada66c60f46fdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02笔记库/Navigation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a24efb3b9a3f0d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02笔记库/国能接入工作台SDK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9aa8d26dcf7423fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02笔记库/Navigation 库的使用.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/Navigation 库的使用.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -184,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02笔记库/Navigation 库的使用.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,14 +262,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33beec4352f9d98e",
+  "active": "9aa8d26dcf7423fc",
   "lastOpenFiles": [
+    "02笔记库/Android 文档预览功能调研.md",
+    "02笔记库/Markdown教程.md",
+    "02笔记库/国能接入工作台SDK.md",
+    "02笔记库/Navigation.md",
+    "附件/Pasted image 20210912162722.png",
+    "conflict-files-obsidian-git.md",
+    "02笔记库/Obsidian用Git同步笔记.md",
     "00演示文件夹/看板演示.md",
     "02笔记库/Navigation 库的使用.md",
-    "附件/Pasted image 20210912162722.png",
-    "02笔记库/Markdown教程.md",
-    "02笔记库/Obsidian用Git同步笔记.md",
-    "02笔记库/国能接入工作台SDK.md",
     "02笔记库/Flutter/框架搭建.md",
     "02笔记库/Flutter",
     "00演示文件夹/Excalidraw演示.excalidraw.md",
