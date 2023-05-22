@@ -5,6 +5,9 @@
 
 ## 2. 接入流程说明
 ### aar包导入
+一共包括6个aar文件 由于需要包含res文件,需要用 `implementation` 进行集成
+
+
 `sdk_guoneng-release` 放入 `libs` 文件夹中
 模块的 `build.gradle` 添加 
 ```
