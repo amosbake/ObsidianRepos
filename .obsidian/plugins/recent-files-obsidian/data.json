@@ -1,48 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Android 功能开发流程",
-      "path": "02笔记库/Android 功能开发流程.md"
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
     },
     {
-      "basename": "Navigation",
-      "path": "02笔记库/Navigation.md"
-    },
-    {
-      "basename": "国能接入工作台SDK",
-      "path": "02笔记库/国能接入工作台SDK.md"
-    },
-    {
-      "basename": "如何搭建文章的框架结构",
-      "path": "02笔记库/技术写作指南/如何搭建文章的框架结构.md"
-    },
-    {
-      "basename": "确定写作方向",
-      "path": "02笔记库/技术写作指南/确定写作方向.md"
+      "basename": "Android 文档预览功能调研",
+      "path": "02笔记库/Android 文档预览功能调研.md"
     },
     {
       "basename": "Markdown教程",
       "path": "02笔记库/Markdown教程.md"
     },
     {
-      "basename": "…",
-      "path": "developer.mozilla.org/en-US/docs/….md"
+      "basename": "国能接入工作台SDK",
+      "path": "02笔记库/国能接入工作台SDK.md"
+    },
+    {
+      "basename": "Navigation",
+      "path": "02笔记库/Navigation.md"
+    },
+    {
+      "basename": "Pasted image 20210912162722",
+      "path": "附件/Pasted image 20210912162722.png"
     },
     {
       "basename": "Obsidian用Git同步笔记",
       "path": "02笔记库/Obsidian用Git同步笔记.md"
     },
     {
-      "basename": "请先阅读这里（Readme）",
-      "path": "请先阅读这里（Readme）.md"
+      "basename": "看板演示",
+      "path": "00演示文件夹/看板演示.md"
+    },
+    {
+      "basename": "框架搭建",
+      "path": "02笔记库/Flutter/框架搭建.md"
     },
     {
       "basename": "Excalidraw演示.excalidraw",
       "path": "00演示文件夹/Excalidraw演示.excalidraw.md"
     },
     {
-      "basename": "看板演示",
-      "path": "00演示文件夹/看板演示.md"
+      "basename": "确定写作方向",
+      "path": "02笔记库/技术写作指南/确定写作方向.md"
+    },
+    {
+      "basename": "2021-12-06",
+      "path": "日记/2021-12-06.md"
+    },
+    {
+      "basename": "ZK笔记模板",
+      "path": "模板/ZK笔记模板.md"
+    },
+    {
+      "basename": "请先阅读这里（Readme）",
+      "path": "请先阅读这里（Readme）.md"
+    },
+    {
+      "basename": "如何搭建文章的框架结构",
+      "path": "02笔记库/技术写作指南/如何搭建文章的框架结构.md"
+    },
+    {
+      "basename": "…",
+      "path": "developer.mozilla.org/en-US/docs/….md"
     }
   ],
   "omittedPaths": [],

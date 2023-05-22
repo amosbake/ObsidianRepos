@@ -339,14 +339,12 @@ tv_deeplink.setOnClickListener {
 
 AndroidManifest.xml中给FragmentDeepLink所属的activity添加一个<nav-graph>属性，这为MainActivity
 
-``` xml
+```  xml
 <activity android:name=".MainActivity">
     ......
     <nav-graph android:value="@navigation/nav_graph"/>
 </activity>
-
 ```
-
 Navigation 组件会将 <nav-graph> 元素替换为生成的 <intent-filter> 元素来匹配深层链接。
 
 我们可以通过adb来测试隐式深层链接的效果，打开命令行输入
